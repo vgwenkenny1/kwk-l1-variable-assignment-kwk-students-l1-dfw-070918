@@ -1,1 +1,1 @@
-gretting = "Hello World"
+puts gretting = "Hello World"
